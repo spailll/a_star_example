@@ -26,4 +26,4 @@ Any of the variables at the top of the main.py file can easily be changed to cha
     - WIDTH
     - ROWS
     - COLUMNS
-
+The functionality of the heuristic function can be changed to whatever (currently Manhattan Distance, could change to Euclidean distance or anything else.)
